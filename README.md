@@ -6,4 +6,4 @@ Primeros Pasos a la Visión Artificial con Python y OpenCV
 
 ## Contacto
 
-Para cualquier duda mandad un correo a javaba@cidaut.es.
+Para cualquier duda, javaba@cidaut.es.
